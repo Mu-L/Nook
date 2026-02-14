@@ -41,6 +41,10 @@
 ### Download
 [![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/nook-browser/nook/releases/download/v1.0.2/Nook-v1.0.2.dmg)
 
+### Homebrew
+
+``` brew install nook ```
+
 ### or, Build from Source
 
 #### Prerequisites  
