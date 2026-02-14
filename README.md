@@ -43,7 +43,9 @@
 
 ### Homebrew
 
-``` brew install nook ```
+```bash
+brew install nook
+```
 
 ### or, Build from Source
 
